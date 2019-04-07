@@ -1,0 +1,8 @@
+module B where
+
+foo = 6
+
+baz x = x + floo
+
+floo = 5
+floo2 = 4
